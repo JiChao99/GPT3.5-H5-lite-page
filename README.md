@@ -1,4 +1,7 @@
 # GPT3.5-H5-lite-page
+
+*code,readme by new bing,chatgpt*
+
 a GPT3.5 web page, extremely lightweight and can be deployed statically, with no need for a server
 
 **English Description**
@@ -22,4 +25,9 @@ This is a repository for a GPT3.5 web page, consisting of a single-page applicat
 2. Deploy `index.html` to your server or CDN
 3. Run `index.html` to preview the page
 
-readme by chatgpt
+🪧 you can start with `index.html?key=xx` auto completed api key , and auto hide
+
+## REF
+
+- [new bing](https://new.bing.com)
+- [openai](https://openai.com/)
